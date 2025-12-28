@@ -24,3 +24,9 @@ def ban_user(message):
         bot.reply_to(message, "Эта команда должна быть использована в ответ на сообщение пользователя, которого вы хотите забанить.")
 
 bot.infinity_polling(none_stop=True)
+
+
+
+
+
+print('hello creator')
