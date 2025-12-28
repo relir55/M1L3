@@ -29,4 +29,4 @@ bot.infinity_polling(none_stop=True)
 
 
 
-print('hello creator')
+print('hello creator, god')
